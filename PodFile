@@ -1,0 +1,13 @@
+target "Login" do
+use_frameworks!
+
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'GoogleSignIn'
+pod 'FirebaseUI/Auth'
+
+
+pod 'Firebase/Core'
+pod 'Firebase/Database'
+end
+
